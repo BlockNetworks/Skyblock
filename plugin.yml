@@ -1,5 +1,5 @@
 name: Skyblock
 author: SkyblocMC
 version: 1.0.0
-api: 4.0.0
+api: 3.0.0
 main: Skyblock\Skyblock
